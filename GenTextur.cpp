@@ -39,7 +39,7 @@ cerr << "Erreur de fichier !";
         myfile << "\n";
         // Si pas de ligne de commande.
 // input X (que nombre) 1 à 32k.
-// input Y (que nombre) 1 à 32k.
+// input Y (que nombre) 1 à 70.
 // input nom.
         for (int i=0; i<X; i++) {
             for (int j=0; j<Y; j++) {

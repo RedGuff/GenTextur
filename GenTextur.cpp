@@ -16,8 +16,6 @@ int main() {
     const int FULLWHITE = 256; // From 1 (included) to 65536 (included).
     if ((FULLWHITE>65536 )||(FULLWHITE<1 )){// ( Norme du fichier ).
 cerr << "Erreur de fichier !";
-
-;
     }
     int X=16; // Colonnes
     int Y=7; // Lignes // 70 caractères MAX par ligne.
